@@ -48,6 +48,24 @@ The dataset contains agricultural records with the following attributes:
 - **Libraries Used:** `pandas`, `numpy`, `scikit-learn`, `joblib`, `flask`
 
 ---
+## Model Screenshots
+
+
+<!-- First Row -->
+<p align="center">
+  <img src="Screenshot%20(78).png" alt="Screenshot 78" width="30%" />
+  <img src="Screenshot%20(79).png" alt="Screenshot 79" width="30%" />
+  <img src="Screenshot%20(80).png" alt="Screenshot 80" width="30%" />
+</p>
+
+<!-- Second Row -->
+<p align="center">
+  <img src="Screenshot%20(81).png" alt="Screenshot 81" width="30%" />
+  <img src="Screenshot%20(83).png" alt="Screenshot 83" width="30%" />
+  <img src="Screenshot%20(84).png" alt="Screenshot 84" width="30%" />
+</p>
+
+
 
 
 ## ☁️ IBM Cloud + Hugging Face Deployment
