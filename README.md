@@ -1,6 +1,14 @@
 
 # 🌾 Crop Prediction using Machine Learning | IBM Cloud + Hugging Face Deployment
 
+## 🚀 Live Demo
+
+You can try the deployed project here:  
+👉 [Crop Prediction App on Hugging Face](https://huggingface.co/spaces/siddhiii/Crop_Prediction)
+
+
+---
+
 ## 📌 Project Overview
 This project is an intelligent crop prediction system that uses machine learning models to suggest the most suitable crop based on soil, weather, and environmental parameters like temperature, humidity, pH, and rainfall. The model is deployed on IBM Cloud using Hugging Face for accessible API-based predictions.
 
