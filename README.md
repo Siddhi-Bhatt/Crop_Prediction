@@ -1,3 +1,30 @@
+# 🚀 IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies
+
+This repository documents the journey and outcomes of the 4-week virtual internship completed via IBM SkillsBuild, AICTE, and Edunet Foundation. The program focused on building practical skills in Artificial Intelligence and Cloud Computing, with mentor-led sessions and hands-on labs using the IBM Cloud platform.
+
+---
+
+## 📖 Internship Curriculum Overview
+
+The internship was divided across four intensive weeks:
+
+### Week 1:  
+- Internship Orientation  
+- IBM Cloud Account Setup  
+- Introduction to Artificial Intelligence  
+
+### Week 2:  
+- Data Analytics Fundamentals  
+- Hands-On Labs with Real Datasets  
+- Cloud-based Exploratory Data Analysis (EDA)  
+
+### Weeks 3 & 4:  
+- Building and Deploying a Chat Bot  
+- Experimenting with AI/ML Tools on IBM Cloud  
+- AutoAI Deep Dive: Automated ML Pipelines on IBM Watsonx  
+
+---
+
 
 # 🌾 Crop Prediction using Machine Learning | IBM Cloud + Hugging Face Deployment
 
